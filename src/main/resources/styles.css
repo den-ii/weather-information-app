@@ -1,0 +1,34 @@
+.body{
+ -fx-background-color: '#9381ff';
+ -fx-background-color: '#9381ff';
+}
+
+.sidebar{
+ -fx-background-color: '#fff';
+ -fx-border-radius: 20px;
+ -fx-background-radius: 20px;
+ -fx-border-color: '#9381ff';
+}
+
+.sidebar_button{
+ -fx-background-color: '#9381ff';
+ -fx-border-radius: 20px;
+ -fx-background-radius: 20px;
+ -fx-text-fill: '#fff'
+}
+.degree {
+ -fx-text-fill: '#9381ff';
+}
+.input {
+ -fx-border-radius: 20px;
+ -fx-background-radius: 20px;
+ -fx-border-color: '#9381ff';
+}
+
+.main{
+ -fx-background-color: '#fff';
+ -fx-border-color: '#9381ff';
+ -fx-border-radius: 20px;
+ -fx-background-radius: 20px;
+ -fx-font-family: "Bradley Hand";
+}
