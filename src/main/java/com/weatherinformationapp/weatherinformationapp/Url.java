@@ -25,10 +25,8 @@ public class Url {
     private static URL url;
 
     private static final String initialUrl = "http://api.weatherstack.com/current" +
-            "?access_key=1d1a62ef9581ed6ee0b98d0ef71cee3a" +
+            "?access_key="+ System.getenv("APIKEY") +
             "&query=%s";
-    private static final String APIKEY = "b04f2dec3d4b31d0d26c9b8b3208efa5";
-
     private String country;
     private String city;
     private Object location;
