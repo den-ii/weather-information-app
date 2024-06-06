@@ -2,3 +2,6 @@
 
 GUI Application built with JavaFX.<br>
 Retrieves information about the weath for specified locations.
+[
+<img width="694" alt="Screenshot 2024-06-06 at 11 16 40 PM" src="https://github.com/den-ii/weather-information-app/assets/104834114/d62b9906-45bf-47d3-8d3f-b0626748f6d2">
+](url)
